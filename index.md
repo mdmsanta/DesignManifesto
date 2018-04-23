@@ -8,7 +8,7 @@ Throughout the course of the term I worked on six different projects, all with d
 
 
 - [Good Design, Bad Design](GoodBad.md)
-- [Design for Others](https://medium.com/design-for-others/design-for-others-redesigning-the-worcester-public-library-site-95cec1781f9f)
+- [Design for Others](Others.md)
 - [Design for Understanding](https://medium.com/design-for-understanding-design-process/design-for-understanding-b3d08904b868)
 - [Design for Tension](https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2)
 - Design for Wellbeing
