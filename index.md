@@ -4,7 +4,7 @@ I am currently a freshman CS major at WPI. While I do not know exactly what I wa
 
 ### Projects
 
-Throughout the course of the term I worked on six different projects, all with different goals. Below are the links to the Medium posts about each project, as well as a short description of each.
+Throughout the course of the term I worked on six different projects, all with different goals. Below is a list of all the projects I worked on. Click on each one to find out more.
 
 
 - [Good Design, Bad Design](GoodBad.md)
