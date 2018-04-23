@@ -9,12 +9,12 @@ Throughout the course of the term I worked on six different projects, all with d
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+- [Good Design, Bad Design](https://medium.com/@michellesantacreu/the-good-and-the-bad-design-on-wpis-campus-47c46e6cb8a1)
+- [Design for Others](https://medium.com/design-for-others/design-for-others-redesigning-the-worcester-public-library-site-95cec1781f9f)
+- [Design for Understanding](https://medium.com/design-for-understanding-design-process/design-for-understanding-b3d08904b868)
+- [Design for Tension](https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2)
+- Design for Wellbeing
+- Design for Another World
 
 1. Numbered
 2. List
