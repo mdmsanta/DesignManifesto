@@ -2,6 +2,6 @@
 
 PROJECT DESCRIPTION HERE
 
-View the project 
+View the project here.
 
 [back](index.md)
