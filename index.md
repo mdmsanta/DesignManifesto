@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/mdmsanta/DesignManifesto/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am currently a freshman CS major at WPI. While I do not know exactly what I want to do within the field itself, I do know that ultimatley I want to create programs that somehow benefit society. HCI plays a huge role in this, as it is not just knowing how to program, but knowing how to program for a user, and knowing what will benefit them most. I plan to use the techniques I learned from this class in my future projects as a way of helping me achieve my goal.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Throughout the course of the term I worked on six different projects, all with different goals. Below are the links to the Medium posts about each project, as well as a short description of each.
 
 ```markdown
 Syntax highlighted code block
