@@ -7,7 +7,7 @@ I am currently a freshman CS major at WPI. While I do not know exactly what I wa
 Throughout the course of the term I worked on six different projects, all with different goals. Below are the links to the Medium posts about each project, as well as a short description of each.
 
 
-- [Good Design, Bad Design](https://medium.com/@michellesantacreu/the-good-and-the-bad-design-on-wpis-campus-47c46e6cb8a1)
+- [Good Design, Bad Design](GoodBad.md)
 - [Design for Others](https://medium.com/design-for-others/design-for-others-redesigning-the-worcester-public-library-site-95cec1781f9f)
 - [Design for Understanding](https://medium.com/design-for-understanding-design-process/design-for-understanding-b3d08904b868)
 - [Design for Tension](https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2)
