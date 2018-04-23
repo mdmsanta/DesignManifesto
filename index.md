@@ -11,5 +11,5 @@ Throughout the course of the term I worked on six different projects, all with d
 - [Design for Others](Others.md)
 - [Design for Understanding](Understanding.md)
 - [Design for Tension](Tension.md)
-- Design for Wellbeing
-- Design for Another World
+- [Design for Wellbeing](WellBeing.md)
+- [Design for Another World](AnotherWorld.md)
