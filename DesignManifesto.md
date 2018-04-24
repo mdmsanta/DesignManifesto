@@ -46,3 +46,6 @@ After going through the above steps, and going through some of them multiple tim
 ---
 
 Before taking this class I had not been taught a lot about design techniques and the design process itself. I was able to learn a lot about this over the course of the term, and what I learned I will be able to implement in my future projects I work on. I was able to learn the steps of the design process and adjust them more to what I thought was most valuable and helped me achieve my goals. The skills I gained from this course are going to be extremely valuable for me in future projects.
+
+
+[back](index.md)
