@@ -5,7 +5,7 @@ I am currently a freshman CS major at WPI. While I do not know exactly what I wa
 
 ### Design Manifesto
 
-Throughout the course of the term I worked on six different projects, all with different goals. From these projects I learned a lot about the design process. To read about my experiences and thoughts on the design process, including how I refined it to my needs, read my Design Manifesto.
+Throughout the course of the term I worked on six different projects, all with different goals. From these projects I learned a lot about the design process. To read about my experiences and thoughts on the design process, including how I refined it to my needs, read my [Design Manifesto](DesignManifesto.md).
 
 
 ### Projects
