@@ -4,6 +4,5 @@ In this design sprint we were tasked with creating a chatbot to talk to users ab
 
 View the project [here](https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2).
 
-View the demo video [here](https://youtu.be/3slmotxxbrQ).
 
 [back](index.md)
